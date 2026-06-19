@@ -1,0 +1,5 @@
+rapidfuzz
+langcodes
+language_data
+spacy
+click
